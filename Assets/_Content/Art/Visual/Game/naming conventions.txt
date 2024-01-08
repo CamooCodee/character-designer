@@ -1,0 +1,51 @@
+Naming Conventions & Mechanics
+
+
+Files:
+
+"Type"_"Category"_"AssetVariation"_"ColorVariation"
+
+Body_1_1_A
+
+Face_1_1_A
+
+
+
+Layers:
+
+"Type"_"Category"_"AssetVariation"_"ColorVariation""_"Layer"
+
+Body_1_1_A_Linework
+
+Body_1_1_A_BaseColor
+
+Body_1_1_A_Painting
+
+Body_1_1_A_Shadow
+
+
+
+
+Types:
+
+Background
+Body
+Face
+Garment
+Head
+Accessories
+
+
+
+Categories:
+
+If a Body of Category "1" is selected, only assets of the same Category ("1") should show up for selection in the other Types
+
+Category "0" works with every other Category
+
+
+File preferences:
+
+Format: .png
+Size:
+DPI: 72
